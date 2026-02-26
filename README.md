@@ -19,7 +19,7 @@
 ---
 
 ### About Me: What I am learning/working on these days
--  telescope I'm a **Cloud Specialist** with deep expertise in **Amazon Connect** solutions
+- 🔭 I'm a **Cloud Specialist** with deep expertise in **Amazon Connect** solutions
 - 🌱 Deepening my expertise in **Infrastructure as Code (IaC)** and **Cloud Automation**
 - 🌎 Designing omnichannel customer experiences and automating complex cloud workflows
 - 💬 Ask me about **Amazon Connect, AWS Ecosystem, or TypeScript**
