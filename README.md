@@ -1,8 +1,12 @@
 # Kokline/README.md
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Amazon_Connect_Specialist-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloud_Engineering-blue?style=for-the-badge&logo=icloud&logoColor=white" />
+  <a href="https://www.credly.com/users/michael-lennon-de-moura" target="_blank">
+    <img src="https://img.shields.io/badge/-Amazon_Connect_Specialist-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/michael-lennon-de-moura" target="_blank">
+    <img src="https://img.shields.io/badge/-Cloud_Engineering-blue?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
